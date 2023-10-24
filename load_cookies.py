@@ -14,7 +14,7 @@ browser.get("http://facebook.com")
 
 
 txtUser = browser.find_element(By.ID,"email")
-txtUser.send_keys("mapca0429@gmail.com.") # <---  Điền username thật của các bạn vào đây
+txtUser.send_keys("hilinhda@fgmail.com") # <---  Điền username thật của các bạn vào đây
 
 txtPass = browser.find_element(By.ID,"pass")
 txtPass.send_keys("Câmp0429")
