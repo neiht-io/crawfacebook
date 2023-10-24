@@ -11,6 +11,7 @@ pandas ,selenium
 1.load_cookies -lấy cookies fb xuất ra file pkl để sử dụng trong loginfn.py
 
 2.loginfb.py - lấy dữ liệu user comment từ url trong object rồi thực hiện xử lý lấy [age,birthday,hometown,from] -> lưu vào list object mới 
+
 3. lấy list object mới (print nó ra)lưu thành tệp user_infor_full.txt
 
 # step 3: covert 
