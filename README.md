@@ -9,6 +9,7 @@ pandas ,selenium
 2. covert user.txt thành object để sử dụng bằng info_raw.py
 # step 2: selenium - login fb - cookies
 1.load_cookies -lấy cookies fb xuất ra file pkl để sử dụng trong loginfn.py
+
 2.loginfb.py - lấy dữ liệu user comment từ url trong object rồi thực hiện xử lý lấy [age,birthday,hometown,from] -> lưu vào list object mới 
 3. lấy list object mới (print nó ra)lưu thành tệp user_infor_full.txt
 
